@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436451238387",
+    "project_id": "chatapplication-f0bb1",
+    "storage_bucket": "chatapplication-f0bb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436451238387:android:350af18f9ace452d6e3286",
+        "android_client_info": {
+          "package_name": "com.ramya.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV5oLUB6AHddF6xn1_x0NK0vEO8E9JsJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
